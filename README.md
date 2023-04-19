@@ -1,4 +1,4 @@
-Esse Projeto Foi Realizado para Faculade
+Esse Projeto Foi Realizado para Faculdade
 
 o Cenário é a realização de um BD para uma Clínica / Hospital
 
